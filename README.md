@@ -43,3 +43,6 @@ Step 7: Creating an Adapter class for setting our data to the item of RecyclerVi
 
 Navigate to the app > java > your app’s package name > Right-click on it Click on New > Java class and name it as BookAdapter and add below code to it. Comments are added in the code to get to know in more detail. 
 Open java file.
+Execute it.
+Desired output is obtained.
+Thankyou
