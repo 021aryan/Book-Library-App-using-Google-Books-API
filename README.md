@@ -39,3 +39,7 @@ Step 6: Create a new layout resource file
 Go to the app > res > layout > right-click > New > Layout Resource File and name the file as book_rv_item and add the following code to this file.
 Open third.xml
 
+Step 7: Creating an Adapter class for setting our data to the item of RecyclerView
+
+Navigate to the app > java > your app’s package name > Right-click on it Click on New > Java class and name it as BookAdapter and add below code to it. Comments are added in the code to get to know in more detail. 
+Open java file.
