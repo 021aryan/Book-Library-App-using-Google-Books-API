@@ -27,3 +27,10 @@ After adding the below dependencies in your gradle file now sync your project an
 Step 3: Adding permissions for the Internet 
 
 Navigate to the app > AndroidManifest.xml and add the below permissions to it. 
+open first.xml
+As we will be loading the books from API so we have to request Internet permissions from the user. For that add the permissions for the internet in AndroidManifest.xml. 
+
+Step 4: Working with the activity_main.xml file
+
+Go to the activity_main.xml file and refer to the following code. Below is the code for the activity_main.xml file.
+
