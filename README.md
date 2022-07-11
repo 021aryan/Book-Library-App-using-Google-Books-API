@@ -33,4 +33,9 @@ As we will be loading the books from API so we have to request Internet permissi
 Step 4: Working with the activity_main.xml file
 
 Go to the activity_main.xml file and refer to the following code. Below is the code for the activity_main.xml file.
+Open second.xml
+Step 6: Create a new layout resource file
+
+Go to the app > res > layout > right-click > New > Layout Resource File and name the file as book_rv_item and add the following code to this file.
+Open third.xml
 
